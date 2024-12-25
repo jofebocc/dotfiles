@@ -1,0 +1,7 @@
+backend = "glx";
+glx-copy-from-font = false;
+
+active-opasity = 0.5;
+inactive-opasity = 1;
+frame-opacity = 1;
+inactive-opacity-override = false;
